@@ -1,0 +1,32 @@
+---
+ID: 977
+post_title: >
+  Why Your Camera Kit Should Include the
+  Nifty Fifty Lens
+author: Admin
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.moderrn.com/2017/11/13/camera-kit-include-nifty-fifty-lens/
+published: true
+post_date: 2017-11-13 08:00:49
+---
+<h2>Background</h2>
+When buying a camera you normally need to purchase a lens to use with it. Some lenses vary in price from cheap to expensive. With the amount of lenses available, it's sometimes difficult to know which one to choose. The lens that I normally have on my camera is the <a target="_blank" href="https://www.amazon.com/gp/product/B00X8MRBCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X8MRBCW&linkCode=as2&tag=moderrnwebsit-20&linkId=14cd9b313d79a04d0cf8e623053542b5">50mm f/1.8 Lens</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00X8MRBCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> also referred to as the Nifty Fifty. The well-known photographer Peter Mckinnon posted a video on why your camera kit should include the nifty fifty lens. You can view Peter Mckinnon's video below:
+
+https://www.youtube.com/watch?v=CdHV7Uzw2E4
+
+<h2>Why Your Camera Kit Should Include the Nifty Fifty Lens</h2>
+Here are a few reasons to add the <a target="_blank" href="https://www.amazon.com/gp/product/B00X8MRBCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X8MRBCW&linkCode=as2&tag=moderrnwebsit-20&linkId=14cd9b313d79a04d0cf8e623053542b5">Nifty Fifty</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00X8MRBCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to your lens collection:
+<ul>
+<li>Light Weight</li>
+Compared to most lenses, the <a target="_blank" href="https://www.amazon.com/gp/product/B00X8MRBCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X8MRBCW&linkCode=as2&tag=moderrnwebsit-20&linkId=14cd9b313d79a04d0cf8e623053542b5">50mm f/1.8</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00X8MRBCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is incredibly small and light-weight. Most DSLRs are very heavy to carry. Putting the <a target="_blank" href="https://www.amazon.com/gp/product/B00X8MRBCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X8MRBCW&linkCode=as2&tag=moderrnwebsit-20&linkId=14cd9b313d79a04d0cf8e623053542b5">Nifty Fifty</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00X8MRBCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> lens on your DSLR makes your camera light and easy to carry around.
+<li>Wide Large Aperture</li>
+Having a Lens that has a large aperture allows you to sharply focus on your subject as well as blur out your background.  
+<li>Affordable</li>
+The <a target="_blank" href="https://www.amazon.com/gp/product/B00X8MRBCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X8MRBCW&linkCode=as2&tag=moderrnwebsit-20&linkId=14cd9b313d79a04d0cf8e623053542b5">50mm f/1.8</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00X8MRBCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> can currently be bought for under $125 for many resellers.  
+</ul>
+
+
+<h2>Conclusion</h2>
+In conclusion, the <a target="_blank" href="https://www.amazon.com/gp/product/B00X8MRBCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X8MRBCW&linkCode=as2&tag=moderrnwebsit-20&linkId=14cd9b313d79a04d0cf8e623053542b5">50mm Nifty Fifty</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00X8MRBCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is a great choice if you're on a tight budget.  If you're not a Canon shooter, Nikon offers their own Nifty Fifty the <a target="_blank" href="https://www.amazon.com/gp/product/B004Y1AYAC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004Y1AYAC&linkCode=as2&tag=moderrnwebsit-20&linkId=0746ac35b781d9fa11f1418e8d58e162">Nikon 50mm f/1.8G Lens</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B004Y1AYAC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. It is slightly more expensive currently selling for $216 but still affordable compared to most lenses. Sony's <a target="_blank" href="https://www.amazon.com/gp/product/B01DLMD5O6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DLMD5O6&linkCode=as2&tag=moderrnwebsit-20&linkId=35ebadfa6b86555c31fa6a3dc436699d">50mm F1.8 Lens</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B01DLMD5O6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is the most expensive of the three priced at $250. Either brand option you select you should be happy with a Nifty Fifty lens in your camera bag.
