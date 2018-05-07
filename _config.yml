@@ -7,5 +7,8 @@ logo: false
 paginate: 15
 gems: [jekyll-paginate]
 permalink:    /:year/:month/:day/:title/
+baseurl: ""
+url: "moderrnup.github.io"
+
 
 # Details for the RSS feed generator
