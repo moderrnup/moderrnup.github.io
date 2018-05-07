@@ -6,11 +6,7 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'https://moderrn.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+permalink:   /:year/:month/:day/:title/
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
