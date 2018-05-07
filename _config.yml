@@ -6,7 +6,7 @@ markdown: kramdown
 logo: false
 paginate: 8
 gems: [jekyll-paginate]
-permalink:    /:year/:month/:day/:title/
+#permalink:    /:year/:month/:day/:title/
 baseurl: ""
 
 
