@@ -2,6 +2,9 @@
 title: Favorite Posts for the Week of May 4th
 layout: post
 ---
+
+Favorite Posts for the Week of May 4th
+
 As part of my weekly <a href="https://www.moderrn.com/category/favorites/" rel="noopener" target="_blank">favorites</a>, here my favorite posts for the week of May 4th. 
 
 <h2>Blog Posts</h2>
