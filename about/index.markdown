@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Rahman Hayes
 ID: 254
 post_title: About
 author: Admin
