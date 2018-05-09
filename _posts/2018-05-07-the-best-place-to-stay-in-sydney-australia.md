@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: The Best Place to Stay in Sydney Australia
 post_excerpt: ""
