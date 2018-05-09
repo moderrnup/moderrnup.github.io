@@ -1,8 +1,6 @@
 ---
 title: Contact Me
-author: Admin
 layout: default
-published: true
 ---
 
 Contact
