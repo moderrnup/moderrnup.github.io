@@ -1,9 +1,7 @@
 ---
-ID: 446
 title: Contact Me
 author: Admin
 layout: default
-permalink: https://www.moderrn.com/contact-me/
 published: true
 ---
 
