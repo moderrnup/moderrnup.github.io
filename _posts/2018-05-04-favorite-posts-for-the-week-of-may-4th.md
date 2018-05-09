@@ -2,7 +2,6 @@
 title: Favorite Posts for the Week of May 4th
 post_excerpt: ""
 layout: post
-permalink: /
 ---
 As part of my weekly <a href="https://www.moderrn.com/category/favorites/" rel="noopener" target="_blank">favorites</a>, here my favorite posts for the week of May 4th. 
 
