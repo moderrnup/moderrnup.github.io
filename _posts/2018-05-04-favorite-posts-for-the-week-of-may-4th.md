@@ -1,11 +1,9 @@
 ---
 ID: 2515
 post_title: Favorite Posts for the Week of May 4th
-author: Admin
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/05/04/favorite-posts-for-the-week-of-may-4th/
+permalink: /
 published: true
 post_date: 2018-05-04 08:14:15
 ---
