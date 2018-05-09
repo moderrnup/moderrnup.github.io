@@ -1,11 +1,8 @@
 ---
-ID: 2515
-post_title: Favorite Posts for the Week of May 4th
+title: Favorite Posts for the Week of May 4th
 post_excerpt: ""
 layout: post
 permalink: /
-published: true
-post_date: 2018-05-04 08:14:15
 ---
 As part of my weekly <a href="https://www.moderrn.com/category/favorites/" rel="noopener" target="_blank">favorites</a>, here my favorite posts for the week of May 4th. 
 
