@@ -39,7 +39,6 @@ Below are some of the list of features in the <a target="_blank" href="https://w
 <li>SnapBridge App</li>
 <li>Tilting Screen</li>
 <li>Weather Sealed Body </li>
-<li>Weather Sealed Body</li>
 </ul>
 
 <b>Strenths</b>
