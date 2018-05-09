@@ -1,13 +1,6 @@
 ---
 layout: default
-title: Rahman Hayes
-ID: 254
-post_title: About
-author: Admin
-post_excerpt: ""
-permalink: https://www.moderrn.com/about/
-published: true
-post_date: 2017-01-11 23:44:10
+title: About
 ---
 &nbsp;
 &nbsp;
