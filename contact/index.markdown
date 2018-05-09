@@ -3,7 +3,7 @@ ID: 446
 post_title: Contact Me
 author: Admin
 post_excerpt: ""
-layout: page
+layout: default
 permalink: https://www.moderrn.com/contact-me/
 published: true
 post_date: 2017-03-15 16:25:01
