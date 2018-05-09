@@ -1,13 +1,14 @@
 ---
 ID: 446
-post_title: Contact Me
+title: Contact Me
 author: Admin
-post_excerpt: ""
 layout: default
 permalink: https://www.moderrn.com/contact-me/
 published: true
-post_date: 2017-03-15 16:25:01
 ---
+
+Contact
+
 <h2>Interested in Working With Me?</h2>
 <br>
 
