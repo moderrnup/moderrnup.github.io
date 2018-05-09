@@ -1,9 +1,10 @@
 ---
 layout: default
-title: About
+title: About Me	
 ---
-&nbsp;
-&nbsp;
+
+About 
+
 
 [su_row class=""]
   [su_column size="1/3" center="no" class=""][caption id="attachment_1301" align="alignright" width="200"]<img src="https://www.moderrn.com/wp-content/uploads/2018/01/Rahman_Hayes_320box.jpg" alt="About Rahman Hayes" width="200" height="200" class="size-full wp-image-1301" /> Rahman Hayes[/caption][/su_column]
