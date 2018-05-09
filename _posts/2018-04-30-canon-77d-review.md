@@ -1,13 +1,6 @@
 ---
-ID: 2118
-post_title: Canon 77D Review
-author: Admin
-post_excerpt: ""
+title: Canon 77D Review
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/04/30/canon-77d-review/
-published: true
-post_date: 2018-04-30 08:30:57
 ---
 I sometimes wonder what are good beginner DSLRs for someone starting out in photography. Canon offers many options for the camera hobbyist and professionals. One of Canon's recently released cameras slotted for beginners/novices is the <a target="_blank" href="https://www.amazon.com/gp/product/B06VSTCWJ9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06VSTCWJ9&linkCode=as2&tag=moderrnwebsit-20&linkId=47f049ffcbef81b71e8ff0a47ba15137">Canon 77D</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B06VSTCWJ9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. The 77D came out in early 2017. Below is my Canon 77D Review. 
 
