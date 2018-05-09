@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Best Place to Stay in Sydney Australia
-post_excerpt: ""
 ---
 
 <h2>The Best Place to Stay in Sydney Australia</h2>
