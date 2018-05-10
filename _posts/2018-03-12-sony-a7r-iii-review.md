@@ -1,13 +1,6 @@
 ---
-ID: 1926
-post_title: Sony a7R III Review
-author: Admin
-post_excerpt: ""
+title: Sony a7R III Review
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/03/12/sony-a7r-iii-review/
-published: true
-post_date: 2018-03-12 08:15:16
 ---
 The <a target="_blank" href="https://www.amazon.com/gp/product/B076TGDHPT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076TGDHPT&linkCode=as2&tag=moderrnwebsit-20&linkId=e35bc6d5dff2bc7daf1824b38660beb6">Sony a7R III</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B076TGDHPT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> was released late towards the end of 2017 and replaces the popular <a target="_blank" href="https://www.amazon.com/gp/product/B00ZDWGFR2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZDWGFR2&linkCode=as2&tag=moderrnwebsit-20&linkId=e64a78bf2a55602c4b6a9a95ed80e53a">Sony a7R II</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00ZDWGFR2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. Sony's product line of A7 cameras are among the only full frame mirrorless cameras on the market. So compared to DSLRs, mirrorless cameras are less heavy and easier to carry around.  Along with the <a target="_blank" href="https://www.amazon.com/gp/product/B07524LHMT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07524LHMT&linkCode=as2&tag=moderrnwebsit-20&linkId=42e65bb451282e5a4c05c6588c44f869">Nikon D850</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B07524LHMT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, the <a target="_blank" href="https://www.amazon.com/gp/product/B076TGDHPT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076TGDHPT&linkCode=as2&tag=moderrnwebsit-20&linkId=e35bc6d5dff2bc7daf1824b38660beb6">Sony a7R III</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B076TGDHPT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> was among the top-ranked cameras for 2017. Because of the  <a target="_blank" href="https://www.amazon.com/gp/product/B076TGDHPT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076TGDHPT&linkCode=as2&tag=moderrnwebsit-20&linkId=e35bc6d5dff2bc7daf1824b38660beb6">Sony a7R III</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B076TGDHPT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />'s popularity and because it seems like a camera I would purchase in the future, I choose to review it. Hence, below is my Sony a7R III Review. 
 

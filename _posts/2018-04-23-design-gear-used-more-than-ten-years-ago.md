@@ -1,13 +1,6 @@
 ---
-ID: 2238
-post_title: Design Gear Used More Than Ten Years Ago
-author: Admin
-post_excerpt: ""
+title: Design Gear Used More Than Ten Years Ago
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/04/23/design-gear-used-more-than-ten-years-ago/
-published: true
-post_date: 2018-04-23 08:00:46
 ---
 While digging through some old things I came across this Computer Arts Magazine from December 2005. Computer Arts Magazine is a UK Magazine for 3D, Motion, Print and Web Designers. In 2005, Facebook and Instagram had yet to be created, Youtube was just beginning, and everyone used cell phones for phone calls. Also in this year, both laptops and digital cameras were still very new and not as affordable as they are now. To look back and compare the differences today has been very interesting. Here is some of the design gear used more than ten years ago:
 

@@ -1,13 +1,6 @@
 ---
-ID: 2046
-post_title: Using Trello for Project Management
-author: Admin
-post_excerpt: ""
+title: Using Trello for Project Management
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/03/26/using-trello-for-project-management/
-published: true
-post_date: 2018-03-26 08:06:03
 ---
 I began using Trello for Project management and productivity tool this January. Trello is a visual project management and collaboration app that is used by many. As I discussed in <a href="https://www.moderrn.com/2018/02/12/spend-time-freelancer/">What I Spend the Most Time on as a Freelancer</a>, Trello has been an amazing tool for organizing my projects and blog schedule.  
 

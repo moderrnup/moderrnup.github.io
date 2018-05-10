@@ -1,13 +1,6 @@
 ---
-ID: 689
-post_title: Three Best Compact External Monitors
-author: Admin
-post_excerpt: ""
+title: Three Best Compact External Monitors
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/10/19/three-best-compact-external-monitors/
-published: true
-post_date: 2017-10-19 08:00:52
 ---
 <h2>Three Best Compact External Monitors for Your Camera</h2> 
 

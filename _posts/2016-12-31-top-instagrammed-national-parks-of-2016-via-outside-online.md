@@ -1,15 +1,6 @@
 ---
-ID: 117
-post_title: >
-  Top Instagrammed National Parks of 2016
-  via Outside Online
-author: Admin
-post_excerpt: ""
+post_title: Top Instagrammed National Parks of 2016 via Outside Online
 layout: post
-permalink: >
-  https://www.moderrn.com/2016/12/31/top-instagrammed-national-parks-of-2016-via-outside-online/
-published: true
-post_date: 2016-12-31 15:53:51
 ---
 Outside Magazine's list of most Instagrammed National Parks in 2016. 
 Number one spot went to Rocky Mountain National Park in Colorado. I was surprised to see how many National Parks in Utah were featured. Arches National Park, Bryce Canyon National Park, and Zion National Park were 4 parks from Utah in the top 10 of this list. 

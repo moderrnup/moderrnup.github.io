@@ -1,13 +1,6 @@
 ---
-ID: 1176
-post_title: Top 10 Photography Blogs
-author: Admin
-post_excerpt: ""
+title: Top 10 Photography Blogs
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/01/22/top-10-photography-blogs/
-published: true
-post_date: 2018-01-22 08:00:36
 ---
 I am always searching for new ideas and inspiration for projects & photography. Because design and photography work utilize a creative aspect, having inspiration is very helpful. Some of my inspiration & ideas come from blogs from photographers and creative. Therefore, I decided to share a list of my Top 10 Photography Blogs that I follow: 
 

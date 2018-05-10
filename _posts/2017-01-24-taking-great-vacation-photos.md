@@ -1,13 +1,6 @@
 ---
-ID: 291
-post_title: Taking Great Vacation Photos
-author: Admin
-post_excerpt: ""
+title: Taking Great Vacation Photos
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/01/24/taking-great-vacation-photos/
-published: true
-post_date: 2017-01-24 18:10:15
 ---
 <h2>Taking Great Vacation Photos On Holiday</h2>
 Shivani Vora of the New York Times recently wrote an article on how to taking great vacation photos. Suggestions included in the article recommended to take photos at sunrise and sunset. Sunrise and sunset shots have less crowds and provide less stress when trying to get the perfect shot. Strangers walking into your line of site are less of a concern while taking a great vacation photos. 

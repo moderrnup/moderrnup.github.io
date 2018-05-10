@@ -1,15 +1,6 @@
 ---
-ID: 1588
-post_title: >
-  Following then Unfollowing Someone on
-  Instagram
-author: Admin
-post_excerpt: ""
+title: Following then Unfollowing Someone on Instagram
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/01/31/following-unfollowing-someone-instagram/
-published: true
-post_date: 2018-01-31 08:00:52
 ---
 I happened upon Jade Darmawangsa (@jadedarmawangsa) vlog on <a href="https://www.youtube.com/channel/UCSPWnWuVALjpQ0s2RL46Wzw" rel="noopener" target="_blank">Youtube</a> concerning the dreaded follow than unfollow trend. If you're new to this social media trend, I think it primarily started on Instagram. Everyone wants to have tons of followers because it's seen as a status symbol. I have also heard this tactic now being used on other Social Media platforms, namely Youtube & Twitter. I suggest giving her video a watch why you should stop Following then Unfollowing someone on Instagram:
 

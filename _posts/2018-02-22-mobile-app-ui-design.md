@@ -1,13 +1,6 @@
 ---
-ID: 1842
-post_title: Mobile App UI Design
-author: Admin
-post_excerpt: ""
+title: Mobile App UI Design
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/02/22/mobile-app-ui-design/
-published: true
-post_date: 2018-02-22 08:10:58
 ---
 Briefbox is a website that creates challenges and briefs for designers to attempt and build their skills.  One of their challenges, "Quick Fire: Plant care app", was a brief that I decided to take on. Below is my take on a Mobile App UI Design for a Plant Care App called Cac.tus.
 

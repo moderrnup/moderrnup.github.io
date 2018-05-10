@@ -1,15 +1,6 @@
 ---
-ID: 535
-post_title: >
-  Tips to Turn Your Bedroom Into a Sleep
-  Sanctuary.
-author: Admin
-post_excerpt: ""
+title: Tips to Turn Your Bedroom Into a Sleep Sanctuary.
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/09/30/tips-turn-bedroom-sleep-sanctuary/
-published: true
-post_date: 2017-09-30 13:50:51
 ---
 I'm always looking for a way to improve my sleep. This article from Success suggest the following tips:
 

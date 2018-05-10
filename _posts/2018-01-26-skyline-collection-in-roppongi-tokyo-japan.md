@@ -1,15 +1,6 @@
 ---
-ID: 1709
-post_title: >
-  Skyline Collection in Roppongi, Tokyo
-  Japan
-author: Admin
-post_excerpt: ""
+title:  Skyline Collection in Roppongi, Tokyo Japan
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/01/26/skyline-collection-in-roppongi-tokyo-japan/
-published: true
-post_date: 2018-01-26 15:44:56
 ---
 Since writing my recent blog post on <a href="https://www.moderrn.com/2018/01/24/three-great-items-next-trip-japan/" rel="noopener" target="_blank">Three Great Items For Your Next Trip</a> to Japan, it made me think of the photos I took on Japan. After looking through my photos last year, I came across this photo I took from last year. During my trip to Japan last year, I happened upon an exhibit in Roppongi, Tokyo. I took this photo of a Nissan GTR at the Skyline Collection in Roppongi, Tokyo Japan. On my trip, I brought with me the <a target="_blank" href="https://www.amazon.com/gp/product/B00ZDWGFR2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZDWGFR2&linkCode=as2&tag=moderrnwebsit-20&linkId=3c719dc900628328d6bd252904512b5b">Sony a7R II</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00ZDWGFR2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> to take photos. The <a target="_blank" href="https://www.amazon.com/gp/product/B00ZDWGFR2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZDWGFR2&linkCode=as2&tag=moderrnwebsit-20&linkId=3c719dc900628328d6bd252904512b5b">Sony a7R II</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B00ZDWGFR2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> makes for a great travel camera because of its size. 
 

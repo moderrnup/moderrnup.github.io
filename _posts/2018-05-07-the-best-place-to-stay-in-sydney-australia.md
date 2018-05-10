@@ -1,9 +1,7 @@
 ---
-layout: post
 title: The Best Place to Stay in Sydney Australia
+layout: post
 ---
-
-
 I traveled to Sydney Australia two years ago and it became one of my favorite destinations. Due to this being my first visit to Sydney, I stayed in the Central Business District area of Sydney Austrailia.  The best place to stay in Sydney Australia, in my opinion, would be in the neighbor called the Rocks. When I heard about the fantastic architecture in the Rocks, I grabbed my camera and proceeded to explore the neighborhood. 
 
 <h2>The Rocks</h2>

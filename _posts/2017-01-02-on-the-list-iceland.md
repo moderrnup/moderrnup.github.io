@@ -1,13 +1,6 @@
 ---
-ID: 140
-post_title: 'Alex Cornell&#8217;s Iceland Travel Guide'
-author: Admin
-post_excerpt: ""
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/01/02/on-the-list-iceland/
-published: true
-post_date: 2017-01-02 13:34:25
+title: 'Alex Cornell's Iceland Travel Guide'
 ---
 I have not been to Iceland, but if I was to visit I would use Alex Cornell's Iceland Travel <a href="https://www.alexcornell.com/iceland-travel-guide/" rel="noopener" target="_blank">Guide</a>. In the last several years, Iceland has been a hot destination to visit. Alex Cornell's guide Is very detailed especially when covering:
 <ul>

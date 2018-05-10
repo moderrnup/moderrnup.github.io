@@ -1,13 +1,6 @@
 ---
-ID: 1078
-post_title: Writing Better Blog Posts Using YoastSEO
-author: Admin
-post_excerpt: ""
+title: Writing Better Blog Posts Using YoastSEO
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/01/09/writing-better-blog-posts-using-yoastseo/
-published: true
-post_date: 2018-01-09 14:56:31
 ---
 As someone who is more visual, I sometimes struggle with writing blog posts. For designers and photographers, content &amp; blog posts are a valuable tool in attracting an audience to your website. One of the tools that I use in writing blog posts is a Wordpress plugin called <a href="https://yoast.com" rel="noopener" target="_blank">YoastSEO</a>. This Wordpress plugin provides a great structure for writing better blog posts using YoastSEO. The <a href="https://yoast.com" rel="noopener" target="_blank">YoastSEO</a> plugin functions as a checker that assist in getting more traffic from search engines like Google.
 

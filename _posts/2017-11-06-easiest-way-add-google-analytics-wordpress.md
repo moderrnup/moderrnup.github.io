@@ -1,15 +1,6 @@
 ---
-ID: 939
-post_title: >
-  The Easiest Way to Add Google Analytics
-  to WordPress
-author: Admin
-post_excerpt: ""
+title:  The Easiest Way to Add Google Analytics to WordPress
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/11/06/easiest-way-add-google-analytics-wordpress/
-published: true
-post_date: 2017-11-06 08:23:12
 ---
 <h2>THE EASIEST WAY TO ADD GOOGLE ANALYTICS TO WORDPRESS</h2>  
 Google Analytics is one of the most insightful statistical software in the field. In addition to being free of charge, Google Analytics offers fantastic features. Most noteworthy is that it allows you to segment your visitors by location, referral sources, their page preference. The easiest way to add Google Analytics to Wordpress is through the use of a plugin called MonsterInsights. The benefits of using a plugin for Google Analytics is that it stores information in an easily accessible place. That way if you wanted to change the theme of your Wordpress site in the future, you can retain your Google Analytics setup data. 

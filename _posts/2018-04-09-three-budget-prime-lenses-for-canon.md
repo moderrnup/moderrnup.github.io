@@ -1,13 +1,6 @@
 ---
-ID: 2006
-post_title: Three Budget Prime Lenses for Canon
-author: Admin
-post_excerpt: ""
+title: Three Budget Prime Lenses for Canon
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/04/09/three-budget-prime-lenses-for-canon/
-published: true
-post_date: 2018-04-09 08:15:43
 ---
 One of the reasons people often choose Canon cameras is because they offer a wide selection of lenses. If you choose to invest in the Canon system you have several options in terms of what type of lens to select with your camera. I have listed below three budget prime lenses for Canon cameras. While zoom lenses provide the ability to change lengths, prime lenses are different in that their lengths are fixed. The Prime lenses discussed below are for EF Mount cameras which are for Canon Full Frame Cameras such as the 5D, 6D, and 1D product line. These lenses will also work for APS-C Canon Cameras but their lengths will be multiplied by 1.7.
 <ul>

@@ -1,13 +1,6 @@
 ---
-ID: 395
-post_title: 'Review: Using Databases with Python'
-author: Admin
-post_excerpt: ""
+title: 'Review: Using Databases with Python'
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/03/15/review-using-databases-with-python/
-published: true
-post_date: 2017-03-15 13:13:56
 ---
 <h4>Coursera: Using Databases with Python</h4>
 

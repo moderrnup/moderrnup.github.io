@@ -1,13 +1,6 @@
 ---
-ID: 1249
-post_title: Review of the Nikon D500
-author: Admin
-post_excerpt: ""
+title: Review of the Nikon D500
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/01/29/review-nikon-d500/
-published: true
-post_date: 2018-01-29 08:00:49
 ---
 I normally shoot with a mix of Canon and Sony Cameras. While I enjoy shooting with these brands, I am always looking to expand my horizons. Because haven't taken photos using Nikon Cameras, I decided to test out one of their newest cameras. As a result, here is my review of the Nikon D500. Released in January of 2016, the <a href="https://www.amazon.com/gp/product/B01A7Q0J3Y/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01A7Q0J3Y&amp;linkCode=as2&amp;tag=moderrnwebsit-20&amp;linkId=5c4939d9820c4f6a41f20a671a3a80bc" target="_blank" rel="noopener">Nikon D500</a><img style="border: none !important; margin: 0px !important;" src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&amp;l=am2&amp;o=1&amp;a=B01A7Q0J3Y" alt="" width="1" height="1" border="0" /> is the company's update to the previous D300.
 <h2>Price</h2>

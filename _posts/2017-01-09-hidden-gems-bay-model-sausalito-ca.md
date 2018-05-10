@@ -1,13 +1,6 @@
 ---
-ID: 134
-post_title: 'Hidden Gems: Bay Model'
-author: Admin
-post_excerpt: ""
+title: 'Hidden Gems: Bay Model'
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/01/09/hidden-gems-bay-model-sausalito-ca/
-published: true
-post_date: 2017-01-09 08:12:46
 ---
 I visited the Bay Model in Sausalito, California last Friday. The Bay Model is a hydraulic scale model of the San Francisco Bay and Sacramento-San Joaquin River Delta System. You can see the Bay Model at the Bay Model Visitor Center at 2100 Bridgeway Blvd. in Sausalito, California. The Bay Model was constructed in 1957 by the U.S. Army Corps of Engineers for scientific purposes.
 <!--more-->

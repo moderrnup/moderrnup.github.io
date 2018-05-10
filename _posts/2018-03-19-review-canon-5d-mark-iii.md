@@ -1,13 +1,6 @@
 ---
-ID: 1403
-post_title: Review of the Canon 5D Mark III
-author: Admin
-post_excerpt: ""
+title: Review of the Canon 5D Mark III
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/03/19/review-canon-5d-mark-iii/
-published: true
-post_date: 2018-03-19 08:00:40
 ---
 Several years ago I wanted to take my photography to another level. I had experience with entry level DSLRs and mirrorless cameras. After hearing about Full Frame cameras, I wanted to test the image quality from these cameras. After doing some research I decided on the <a target="_blank" href="https://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007FGYZFI&linkCode=as2&tag=moderrnwebsit-20&linkId=944534c5049af76c32e9d6378a4f9c95">Canon 5D Mark III</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B007FGYZFI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. Below is my review of the <a target="_blank" href="https://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007FGYZFI&linkCode=as2&tag=moderrnwebsit-20&linkId=944534c5049af76c32e9d6378a4f9c95">Canon 5D Mark III</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B007FGYZFI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
 

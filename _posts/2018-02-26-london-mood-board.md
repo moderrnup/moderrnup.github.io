@@ -1,13 +1,6 @@
 ---
-ID: 1855
-post_title: London Mood Board
-author: Admin
-post_excerpt: ""
+title: London Mood Board
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/02/26/london-mood-board/
-published: true
-post_date: 2018-02-26 08:15:43
 ---
 I plan on visiting London this year. Before I embark on my trip, I thought I'd look for inspiration before going. One planning tool I have been anxious to try is creating inspiration Mood Boards of places I plan to travel to. I picked up the idea to create mood boards from <a href="http://patkay.com.au" rel="noopener" target="_blank">Pat Kay</a> and <a href="http://www.itchban.com" rel="noopener" target="_blank">Benjamin Lee</a>. It's almost similar to creating a shot list but mostly it's to get gain inspiration. Below is my London mood board for this year. 
 

@@ -1,12 +1,5 @@
 ---
-ID: 236
-post_title: 'Yomiwa App: Translation for Price of a Coffee'
-author: Admin
-post_excerpt: ""
+title: 'Yomiwa App: Translation for Price of a Coffee'
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/01/16/yomiwa-app-translation-for-price-of-a-coffee/
-published: true
-post_date: 2017-01-16 23:09:43
 ---
 One of the hurdles in traveling is the language barrier in foreign countries. Japanese to me can be intimidating to learn, especially because you have to learn because of the style of writing and pronunciation. I traveled to Japan back in 2013 and although I knew some words to get by I was stuck when it came to written Kanji characters. I am slightly intimidated to travel back to Japan because it has been awhile since I studied it. The app, Yomiwa has several features but what makes the app useful is that it has both camera and image recognition. This is helpful when you need to translate text written in Kanji such as signs or items in a store. I have had the chance to test Yomiwa on single kanji characters and it has been pretty accurate. Multiple kanji characters pose a problem for the app so I'm hoping in the future there are some updates to the software to translate full sentences. But for now I'll use it as a study tool when I plan to visit Japan again.  The Yomiwa app is available for both <a href="https://itunes.apple.com/us/app/yomiwa-japanese-dictionary/id670931120?mt=8" target="_blank">IOS</a> and <a href="https://play.google.com/store/apps/details?id=com.yomiwa.yomiwa&hl=en" target="_blank">Android</a> devices.

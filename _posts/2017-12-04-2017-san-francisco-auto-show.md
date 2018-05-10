@@ -1,13 +1,6 @@
 ---
-ID: 1031
-post_title: The 2017 San Francisco Auto Show
-author: Admin
-post_excerpt: ""
+title: The 2017 San Francisco Auto Show
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/12/04/2017-san-francisco-auto-show/
-published: true
-post_date: 2017-12-04 12:52:50
 ---
 I am a huge fan of cars and car shows. Throughout the year, there are several car shows that are held throughout the country and also internationally. As a Bay Area local I am always excited when the San Francisco Auto Show comes to town. The 2017 San Francisco Auto Show allows attendees to browse over 100 cars & SUVs from over 30 different manufacturers. Attendees can browse the insides and outsides of the new vehicles and explore many of the new features. 
 

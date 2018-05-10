@@ -1,13 +1,6 @@
 ---
-ID: 1117
-post_title: Review of Bluehost Web Hosting
-author: Admin
-post_excerpt: ""
+title: Review of Bluehost Web Hosting
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/04/02/review-of-bluehost-web-hosting/
-published: true
-post_date: 2018-04-02 08:00:41
 ---
 If you're in a field that requires you to have a portfolio, you will often need to build a website. This ranges from if you're a Copy Writer, Designer, Photographer, you want a place that can show your body of work. Part of having your own website means you need a hosting service for that website. When I was first looking into a hosting service, I noticed Bluehost was recommended by several influencers. Here is my review of Bluehost web hosting.
 

@@ -1,15 +1,6 @@
 ---
-ID: 52
-post_title: >
-  Improving the Marketing for the Fitbit
-  HR
-author: Admin
-post_excerpt: ""
 layout: post
-permalink: >
-  https://www.moderrn.com/2016/09/17/improving-the-marketing-for-the-fitbit-hr/
-published: true
-post_date: 2016-09-17 03:31:23
+title: Improving the Marketing for the Fitbit HR
 ---
 <h2>Improving the Marketing for the Fitbit HR</h2>
 

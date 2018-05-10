@@ -1,15 +1,6 @@
 ---
-ID: 691
-post_title: >
-  What You Should Have in Your Emergency
-  Travel Bag
-author: Admin
-post_excerpt: ""
+title:  What You Should Have in Your Emergency Travel Bag
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/10/23/emergency-travel-bag/
-published: true
-post_date: 2017-10-23 13:40:04
 ---
 <h2>What You Should Have in Your Emergency Travel Bag</h2>
 

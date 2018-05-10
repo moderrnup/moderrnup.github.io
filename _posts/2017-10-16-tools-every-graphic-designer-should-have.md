@@ -1,13 +1,6 @@
 ---
-ID: 581
-post_title: Tools Every Graphic Designer Should Have
-author: Admin
-post_excerpt: ""
+title: Tools Every Graphic Designer Should Have
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/10/16/tools-every-graphic-designer-should-have/
-published: true
-post_date: 2017-10-16 23:49:17
 ---
 <h2>Necessary Tools</h2>
 The CreativeBloq recently wrote an article about the 12 tools every graphic designer should have. I am always interested in useful items that can improve your productivity and make creating easier. Here is a quick summary of the 12 tools from the article below:

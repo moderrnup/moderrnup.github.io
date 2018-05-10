@@ -1,13 +1,6 @@
 ---
-ID: 508
-post_title: Humans of New York Series
-author: Admin
-post_excerpt: ""
+title: Humans of New York Series
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/09/02/humans-new-york-trailer/
-published: true
-post_date: 2017-09-02 02:03:03
 ---
 <h2>Humans of New York Series</h2>
 <div id="js_i5" class="_5pbx userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">

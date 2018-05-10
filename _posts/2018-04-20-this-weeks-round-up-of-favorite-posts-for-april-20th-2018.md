@@ -1,13 +1,6 @@
 ---
-ID: 2283
 post_title: 'This Week&#8217;s Round-Up of Favorite Posts for April 20th'
-author: Admin
-post_excerpt: ""
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/04/20/this-weeks-round-up-of-favorite-posts-for-april-20th-2018/
-published: true
-post_date: 2018-04-20 08:13:09
 ---
 I am starting a weekly blog post that will highlight some of my favorite posts of the week. These will include posts from blogs and Youtube videos that I follow. Similar to my previous <a href="https://www.moderrn.com/2018/01/22/top-10-photography-blogs/" rel="noopener" target="_blank">article</a>, this is a list of creators who are my source of inspiration this week. Hence, below is this week's round-up of favorite posts for April 20th, 2018.
 

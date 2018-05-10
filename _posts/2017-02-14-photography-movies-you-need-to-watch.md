@@ -1,13 +1,6 @@
 ---
-ID: 340
-post_title: Photography Movies You Need to Watch
-author: Admin
-post_excerpt: ""
+title: Photography Movies You Need to Watch
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/02/14/photography-movies-you-need-to-watch/
-published: true
-post_date: 2017-02-14 12:40:51
 ---
 <h2>The List of Photography Movies You Need to Watch</h2>
 Movies & documentaries can inspire an audience. Since they combine visual and sound it can capture and display emotions more uniquely than any other medium. The photographer Benjamin Lee recently wrote a blog post on his five favorite photography related movies & documentaries. Among photography movies you need to watch from Benjamin's list are two films:  

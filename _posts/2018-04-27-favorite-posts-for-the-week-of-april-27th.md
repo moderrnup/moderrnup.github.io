@@ -1,15 +1,6 @@
 ---
-ID: 2288
-post_title: >
-  Favorite Posts for the Week of April
-  27th
-author: Admin
-post_excerpt: ""
+title: Favorite Posts for the Week of April 27th
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/04/27/favorite-posts-for-the-week-of-april-27th/
-published: true
-post_date: 2018-04-27 08:00:22
 ---
 As part of my weekly <a href="https://www.moderrn.com/category/favorites/" rel="noopener" target="_blank">favorites</a>, here my favorite posts for the week of April 27th. 
 

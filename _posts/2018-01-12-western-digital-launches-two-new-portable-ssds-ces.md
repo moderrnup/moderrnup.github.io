@@ -1,15 +1,6 @@
 ---
-ID: 1139
-post_title: >
-  Western Digital Launches Two New
-  Portable SSDs at CES
-author: Admin
-post_excerpt: ""
+title:  Western Digital Launches Two New Portable SSDs at CES
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/01/12/western-digital-launches-two-new-portable-ssds-ces/
-published: true
-post_date: 2018-01-12 08:00:54
 ---
 Since CES is the event for consumer technology, many manufacturers gather to release new products. As a result of <a href="https://www.ces.tech" rel="noopener" target="_blank">CES</a>, Western Digital has launched two products aimed at photographers and drone enthusiasts. The two products from Western Digital are:
 

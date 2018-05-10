@@ -1,13 +1,6 @@
 ---
-ID: 359
-post_title: Which Programming Language
-author: Admin
-post_excerpt: ""
+title: Which Programming Language
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/02/15/which-programming-language/
-published: true
-post_date: 2017-02-15 12:18:46
 ---
 <h2>Which Programming Language</h2>
 Java or C++? 

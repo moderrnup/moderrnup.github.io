@@ -1,13 +1,6 @@
 ---
-ID: 154
-post_title: 'Launching Canon&#8217;s First Full Frame Mirrorless Camera'
-author: Admin
-post_excerpt: ""
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/01/04/launching-canons-first-full-frame-mirrorless-camera/
-published: true
-post_date: 2017-01-04 17:12:21
+title: 'Launching Canon's First Full Frame Mirrorless Camera'
 ---
 <h2>Background</h2>
 There have been rumors that Canon plans to release their first Full Frame Mirrorless Camera. This new camera would potentially be a replacement for the <a target="_blank" href="https://www.amazon.com/gp/product/B009B0MZ8U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009B0MZ8U&linkCode=as2&tag=moderrnwebsit-20&linkId=38b0bca65f9336fdb4d53e9b80cb12aa">Canon 6D</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&l=am2&o=1&a=B009B0MZ8U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> product line of cameras. Launching Canon’s First Full-Frame Mirrorless Camera should address a few areas such as:

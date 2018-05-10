@@ -1,13 +1,6 @@
 ---
-ID: 585
-post_title: Canon 6D Mark II Review
-author: Admin
-post_excerpt: ""
+title: Canon 6D Mark II Review
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/10/13/canon-6d-mark-ii-review/
-published: true
-post_date: 2017-10-13 23:28:34
 ---
 <h2>Canon 6D Mark II Review:</h2>
 Canon has released a sequel to their entry level full frame camera the <a href="https://www.amazon.com/gp/product/B009C6VADE/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B009C6VADE&amp;linkCode=as2&amp;tag=moderrnwebsit-20&amp;linkId=7ac1e4f19913f5a9f2136fbb5d966592" target="_blank" rel="noopener">Canon 6D</a><img style="border: none !important; margin: 0px !important;" src="//ir-na.amazon-adsystem.com/e/ir?t=moderrnwebsit-20&amp;l=am2&amp;o=1&amp;a=B009C6VADE" alt="" width="1" height="1" border="0" />. The <a href="https://www.amazon.com/gp/product/B072MZCJKN/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B072MZCJKN&amp;linkCode=as2&amp;tag=moderrnwebsit-20&amp;linkId=a1d56a6900bf9752e140e9bab76b969c" target="_blank" rel="noopener">Canon EOS 6D Mark II</a> will be Canon's successor to their first entry level full frame camera. I have been looking into getting a full frame camera that offers an articulating screen. It's a feature I think many cameras should have as an option. Articulating screens for cameras have been mostly reserved to entry and mid level cameras. I find cameras that have a rotating lcd screen allows for better framing of shots. You can also take more creative photos with camera angles from extremely low angles. I decided to rent a 6D Mark II and try it out Canon's latest DSLR. Here is my Canon 6D Mark II Review.

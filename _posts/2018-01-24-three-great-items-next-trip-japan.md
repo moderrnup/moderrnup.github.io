@@ -1,15 +1,6 @@
 ---
-ID: 1615
-post_title: >
-  Three Great Items For Your Next Trip to
-  Japan
-author: Admin
-post_excerpt: ""
+title:  Three Great Items For Your Next Trip to Japan
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/01/24/three-great-items-next-trip-japan/
-published: true
-post_date: 2018-01-24 08:09:49
 ---
 During the Spring of 2017, I traveled to Japan for three weeks. I had traveled to Tokyo back in 2013 and I wanted to make a return trip ever since. Below are in my opinion, three great items for your next trip to Japan. 
 

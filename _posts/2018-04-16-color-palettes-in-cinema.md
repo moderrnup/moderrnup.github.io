@@ -1,13 +1,6 @@
 ---
-ID: 2205
-post_title: Color Palettes in Cinema
-author: Admin
-post_excerpt: ""
+title: Color Palettes in Cinema
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/04/16/color-palettes-in-cinema/
-published: true
-post_date: 2018-04-16 14:02:48
 ---
 While researching on color choices used in branding, I came across the Instagram account: <a href="http://instagram.com/colorpalette.cinema" rel="no opener" target="_blank">colorpalette.cinema</a>. Color Palettes in Cinema highlights many different color schemes used in a film. Because I love film, as you might have guessed from some of my early <a href="https://www.moderrn.com/2017/02/14/photography-movies-you-need-to-watch/">articles</a>, I decided to write about <a href="http://instagram.com/colorpalette.cinema" rel="no opener" target="_blank">colorpalette.cinema</a>. It seems like design and moviemaking have a lot of similarities to each other, in that they take various mediums to communicate a message to the audience. In addition, cinema combines typography, imagery, sound, and color to produce a unique work of art. 
 

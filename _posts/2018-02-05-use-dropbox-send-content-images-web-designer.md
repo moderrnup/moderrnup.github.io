@@ -1,15 +1,6 @@
 ---
-ID: 1359
-post_title: >
-  Use Dropbox to Send Content and Images
-  to Your Web Designer
-author: Admin
-post_excerpt: ""
+post_title: Use Dropbox to Send Content and Images to Your Web Designer
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/02/05/use-dropbox-send-content-images-web-designer/
-published: true
-post_date: 2018-02-05 08:00:38
 ---
 During the beginning of a web design project you will need to send content and images to your web designer. To limit any delays in completing a website it's best to send these files at the beginning of the website creation. There are many ways to send content to your web designer such as Email, Google Drive. One useful way I have found is to use <a href="https://www.dropbox.com/?landing=dbv2" rel="noopener" target="_blank">Dropbox</a> to send content and images to your Web Designer. 
 

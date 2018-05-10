@@ -1,13 +1,6 @@
 ---
-ID: 825
-post_title: Responsive Web Design Course
-author: Admin
-post_excerpt: ""
+title: Responsive Web Design Course
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/10/30/responsive-web-design-course/
-published: true
-post_date: 2017-10-30 08:04:02
 ---
 <h2>Why I choose to Enroll in the Responsive Web Design Course</h2> 
 In January 2017 I decided to take the Responsive Web Design course to learn more concepts about interaction design. Responsive web design has become increasingly important now that audiences view websites on various devices. Responsive web design is an approach to web design that makes web pages render well on a variety of devices and/or screen sizes. This course is the second in the Responsive Web Design specialization from the University of London. In the following review for the Responsive Web Design course, I will discuss thoughts and opinions on the course below.  

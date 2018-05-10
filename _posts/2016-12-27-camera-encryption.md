@@ -1,13 +1,6 @@
 ---
-ID: 92
-post_title: Camera Encryption
-author: Admin
-post_excerpt: ""
 layout: post
-permalink: >
-  https://www.moderrn.com/2016/12/27/camera-encryption/
-published: true
-post_date: 2016-12-27 05:11:28
+title: Camera Encryption
 ---
 <div id="js_3h5" class="_5pbx userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
 

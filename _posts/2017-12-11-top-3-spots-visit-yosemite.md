@@ -1,13 +1,6 @@
 ---
-ID: 1027
-post_title: Top 3 Spots to Visit in Yosemite
-author: Admin
-post_excerpt: ""
+title: Top 3 Spots to Visit in Yosemite
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/12/11/top-3-spots-visit-yosemite/
-published: true
-post_date: 2017-12-11 08:00:42
 ---
 Last October I decided to travel to Yosemite for the first time. Yosemite had been on my travel bucket list for some time now. It's a national park that is extremely popular and has some of the best views I have seen. I had no idea how gigantic and massive Yosemite is. I gathered a list of the Top 3 Spots to Visit in Yosemite for new visitors.
 

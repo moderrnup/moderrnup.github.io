@@ -1,15 +1,6 @@
 ---
-ID: 995
-post_title: >
-  3 Gifts Under $50 for the Photographer
-  in your Life
-author: Admin
-post_excerpt: ""
+title:  3 Gifts Under $50 for the Photographer in your Life
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/11/20/3-gifts-50-photographer-life/
-published: true
-post_date: 2017-11-20 08:00:01
 ---
 Since the Holidays are around the corner, many people are out shopping for Christmas gifts for their friends and family. Because cameras as a gift are expensive, it might be a challenge to find what to get them. But there are some great inexpensive gift ideas for them. These items may not be exciting on the surface but they are extremely useful for photographers.  Below are 3 gifts under $50 for the Photographer in your life in three categories.  
 

@@ -1,15 +1,6 @@
 ---
-ID: 1132
-post_title: >
-  What I Spend the Most Time on as a
-  Freelancer?
-author: Admin
-post_excerpt: ""
+title:  What I Spend the Most Time on as a Freelancer?
 layout: post
-permalink: >
-  https://www.moderrn.com/2018/02/12/spend-time-freelancer/
-published: true
-post_date: 2018-02-12 08:00:39
 ---
 When I decided to become a freelancer, I thought my most of my time would be spent working on projects. I think there is a misconception that once you create a website, traffic will automatically flood to you. In college, I remember we were told as students to just focus on our portfolio. Looking back, I think as design students more attention should have been given to business aspects such as marketing. Outside of project work, what I spend the most time on as a freelancer are:
 

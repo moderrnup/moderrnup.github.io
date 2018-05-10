@@ -1,13 +1,6 @@
 ---
-ID: 546
-post_title: Brevite Original Backpack Review
-author: Admin
-post_excerpt: ""
+title: Brevite Original Backpack Review
 layout: post
-permalink: >
-  https://www.moderrn.com/2017/10/02/brevite-original-backpack-review/
-published: true
-post_date: 2017-10-02 17:04:29
 ---
 <h4>Brevite Original Backpack</h4>
 I am always on the lookout for items that make my hobbies easier. In the case of photography and shooting on the go, I'm drawn to backpacks that have a side pocket in which I can access my camera quickly. The Brevite Original backpack is one of the few backpacks that feature a side pocket and make run and gun shooting easy for the photographer.
